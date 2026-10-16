@@ -47,7 +47,7 @@ landing-page-project/
 ## Getting Started
 
 ### Prerequisites
-- A modern web browser (Chrome, Firefox, Safari, Edge)
+- A modern web browser (Chrome,Edge)
 - A code editor (optional, for customization)
 
 ### Installation
