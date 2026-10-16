@@ -156,11 +156,6 @@ Edit the HTML in `index.html`:
 4. Select the main branch as source
 5. Your site will be available at `https://yourusername.github.io/landing-page-project/`
 
-### Netlify
-1. Sign up at [netlify.com](https://netlify.com)
-2. Drag and drop the project folder into Netlify
-3. Your site will be instantly deployed with a unique URL
-
 ### Vercel
 1. Sign up at [vercel.com](https://vercel.com)
 2. Install Vercel CLI: `npm i -g vercel`
@@ -170,8 +165,6 @@ Edit the HTML in `index.html`:
 ## Browser Compatibility
 
 - Chrome (latest)
-- Firefox (latest)
-- Safari (latest)
 - Edge (latest)
 - Mobile browsers (iOS Safari, Chrome Mobile)
 
